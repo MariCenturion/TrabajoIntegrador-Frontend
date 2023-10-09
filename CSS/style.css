@@ -1,0 +1,89 @@
+/*Barra navegacion*/
+.navbar-dark.bg-dark {
+    background-color: #353a40 !important;
+}
+
+
+.link-verde{
+    color: rgb(15, 136, 15);
+}
+
+
+/*Carrousel*/
+.opacity{
+    filter: brightness(50%)
+}
+
+.TextoCarrousel{
+    font-size: 1em;
+    font-weight: 300;
+    margin-top: 250;
+    margin-right: 3%;
+}
+
+
+/*Speakers*/
+.sector{
+    font-size: .7rem;
+    font-weight: bolder;
+    padding: 0rem .2rem;
+}
+
+.buton-section{
+    display: flex;
+    justify-content: start;
+    gap: 2px;
+    margin-bottom: .5rem;
+}
+
+
+/*Texto 3*/
+.seccion3{
+   height: 40vh;
+   width: 100vw;
+  
+}
+
+.img3{
+    width: 100%;
+  
+}
+
+#btn-conocer{
+    font-size: .8rem;
+    padding: .2rem .4rem;
+    border-radius: 3px;
+
+}
+
+/*Formulario*/
+.parrafo-seccion3{
+    font-size: .9rem;
+}
+
+.completar-datos{
+    margin: 0 .8rem;
+}
+
+.completar-form{
+    width: 96%;
+    margin: auto;
+    resize: none;
+}
+.under-text{
+    font-size: 1rem;
+    color: #625e5e;
+    margin-left: .3rem;  
+}
+.boton-enviar{
+    background-color: rgb(92, 138, 12);
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+/*Footer*/
+
+.enlaces-footer{
+    color: white;
+}
